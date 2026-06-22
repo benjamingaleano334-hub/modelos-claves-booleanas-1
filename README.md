@@ -66,5 +66,4 @@ Ingrese una consulta booleana (o 'salir' para terminar): romano NOT griegos
 - Python 
 - NLTK (tokenización)
 - Jupyter Notebook
-```
 
